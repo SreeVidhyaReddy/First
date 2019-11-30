@@ -1,0 +1,11 @@
+div{
+	height:400px;
+	width:400px;
+	background-color:red;
+	animation-name:hello;
+	animation-duration:4s;
+}
+@keyframes hello{
+	from{background-color:yellow;}
+	to{background-color:blue;}
+}

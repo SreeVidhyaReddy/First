@@ -1,0 +1,21 @@
+.transform{
+	background-color: seagreen;
+	color:white;
+	border:none;
+	padding:15px 40px;
+	font-size:20px;
+}
+.translate:hover{
+	transform:translate(10px,20px);
+}
+.rotate_clock:hover{
+	transform:rotate(45deg);
+}
+.rotate_counter:hover{
+	transform:rotate(-45deg);
+}.scale_up:hover{
+	transform:scale(2,3);
+}
+.scale_down:hover{
+	transform:scale()
+}
